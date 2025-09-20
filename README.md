@@ -23,4 +23,4 @@
 
 ## 📫 How to Reach Me
 
-*Feel free to connect, collaborate, or discuss documentation best practices! 
+**Feel free to connect, collaborate, or discuss documentation best practices!**
