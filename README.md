@@ -1,7 +1,8 @@
-portfoliohub799 👋Hi, I'm Anam Sana
+ 👋Hi, I'm Anam Sana
 
-**Postgraduate in Computer Science** from the University of Management and Technology, with a strong passion for crafting clear, comprehensive, and uuser-friendlytechnical content.
-##💡 About Me
+**Postgraduate in Computer Science** from the University of Management and Technology, with a strong passion for crafting clear, comprehensive, and uuser-friendly technical content.
+
+## 💡About Me
 
 - 🎓 **Education:** MSc in Computer Science
 - ✍️ **Technical Writer:** Experienced in creating documentation and guides for diverse audiences
